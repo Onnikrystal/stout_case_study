@@ -1,1 +1,0 @@
-# stout_case_study
